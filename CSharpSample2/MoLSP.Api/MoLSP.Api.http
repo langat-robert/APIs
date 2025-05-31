@@ -1,0 +1,6 @@
+@MoLSP.Api_HostAddress = http://localhost:5149
+
+GET {{MoLSP.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

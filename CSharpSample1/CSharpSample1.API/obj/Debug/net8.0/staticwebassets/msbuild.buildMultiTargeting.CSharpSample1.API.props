@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CSharpSample1.API.props" />
+</Project>
