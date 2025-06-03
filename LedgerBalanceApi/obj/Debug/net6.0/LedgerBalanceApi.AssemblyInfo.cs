@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LedgerBalanceApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1c20ba88be240f03bdddd86e894f083a6cdac5f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1efa4e78c3e4971d1be965234f7daa72c7f6a83")]
 [assembly: System.Reflection.AssemblyProductAttribute("LedgerBalanceApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LedgerBalanceApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

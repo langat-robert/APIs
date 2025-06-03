@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JFtAkK1UAcnyXkOEOws+zgVGtziXamDoSgC3JxTI/OM=",
+  "Source": "LedgerBalanceApi",
+  "BasePath": "_content/LedgerBalanceApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
